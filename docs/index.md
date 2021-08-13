@@ -12,9 +12,9 @@ Main features:
 
 The following examples are available:
 
-* [Sample 01a: List of Students](https://github.com/simple-csv-schema/simple-csv-schema.spec/samples/sample01a.scsv.json)
-* [Sample 01b: List of Courses](https://github.com/simple-csv-schema/simple-csv-schema.spec/samples/sample01b.scsv.json)
-* [Sample 01c: List of Subjects](https://github.com/simple-csv-schema/simple-csv-schema.spec/samples/sample01b.scsv.json)
+* [Sample 01a: List of Students](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample01a.scsv.json)
+* [Sample 01b: List of Courses](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample01b.scsv.json)
+* [Sample 01c: List of Subjects](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample01b.scsv.json)
 
 ## Why yet another CSV schema definition?
 
