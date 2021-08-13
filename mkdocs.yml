@@ -1,0 +1,45 @@
+# Project information
+site_name: Simple CSV Schema
+site_description: 'Documentation for Simple CSV Schema'
+site_author: 'STÜBER SYSTEMS GmbH'
+site_url: 'https://simple-csv-schema.github.io/'
+
+# Copyright
+copyright: © 2021 STÜBER SYSTEMS GmbH
+
+# Repository
+repo_name: 'On GitHub'
+repo_url: 'https://github.com/simple-csv-schema/simple-csv-schema.github.io'
+
+# Theming
+theme: 
+    name: material
+    language: en
+    features:
+        - navigation.tabs
+        - navigation.instant
+    palette:
+        primary: 'indigo'
+        accent: 'amber'
+    font: false
+    favicon: assets/logos/favicon.ico
+    logo: 'assets/logos/logo.svg'
+    include_search_page: false
+    search_index_only: true
+    static_templates:
+      - 404.html
+    
+# Plugins
+plugins:
+    - search
+    - minify:
+        minify_html: true
+
+# Extensions    
+markdown_extensions:
+    - admonition
+  
+# Navigation  
+nav:
+- Introduction: index.md
+- Specification: specification.md
