@@ -6,7 +6,8 @@ Main features:
 + Dedicated to the CSV format.
 + Supports the following data types: string, enum, enum-set, bool, int, float, date, time, date-time, json and xml.
 + Supports CSV tables with ordered and unordered columns.
-+ Supports CSV tables with or without header line.
++ Supports CSV tables with or without header row.
++ Supports CSV dictionaries with key/value rows.
 
 ## Examples
 
@@ -15,6 +16,7 @@ The following examples are available:
 * [Sample 01a: List of Students](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample01a.scsv.json)
 * [Sample 01b: List of Courses](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample01b.scsv.json)
 * [Sample 01c: List of Subjects](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample01b.scsv.json)
+* [Sample 02: Configuration](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample02.scsv.json)
 
 ## Why yet another CSV schema definition?
 
