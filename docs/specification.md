@@ -18,7 +18,7 @@ A table is a JSON object with following properties:
 
 + `name` : Defines the name of the CSV table. **This property is required**.
 + `description` : An optional description of the table.
-+ `type` : Specifies the table type. .**This property is required**. Possible values are:
++ `type` : Specifies the table type. **This property is required**. Possible values are:
     + `ordered` : A table with columns appearing in defined order.
     + `unordered` : A table with columns appearing in any order.
     + `headless` : A table with no header row. Columns must appear in defined order.
