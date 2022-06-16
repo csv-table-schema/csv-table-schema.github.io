@@ -1,8 +1,8 @@
-Simple CSV Schema is a pragmatic approach for defining [CSV](https://datatracker.ietf.org/doc/html/rfc4180) schemas. Simple CSV Schema provides a CSV schema description via JSON.
+CSV Table Schema is a pragmatic approach for defining [CSV](https://datatracker.ietf.org/doc/html/rfc4180) schemas. CSV Table Schema provides a CSV schema description via JSON.
 
 Main features:
 
-+ Easy schema definiton via JSON which can be validated against the [Simple CSV Meta Schema](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/src/simple-csv-schema.json).
++ Easy schema definiton via JSON which can be validated against the [Simple CSV Meta Schema](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/src/csv-table-schema.json).
 + Dedicated to the CSV format.
 + Supports the following data types: string, enum, enum-set, bool, int, float, date, time, date-time, json and xml.
 + Supports CSV tables with ordered and unordered columns.
@@ -13,10 +13,10 @@ Main features:
 
 The following examples are available:
 
-* [Sample 01a: List of Students](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample01a.scsv.json)
-* [Sample 01b: List of Courses](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample01b.scsv.json)
-* [Sample 01c: List of Subjects](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample01b.scsv.json)
-* [Sample 02: Configuration](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/samples/sample02.scsv.json)
+* [Sample 01a: List of Students](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample01a.scsv.json)
+* [Sample 01b: List of Courses](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample01b.scsv.json)
+* [Sample 01c: List of Subjects](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample01b.scsv.json)
+* [Sample 02: Configuration](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample02.scsv.json)
 
 ## Why yet another CSV schema definition?
 
@@ -27,7 +27,7 @@ Unlike JSON or XML there is no well established schema definition language for C
 
 Both approaches are well thought but sadly didn't suit our needs.
 
-Simple CSV Schema is an alternative schema description which is heavily inspired by both existing schema languages.
+CSV Table Schema is an alternative schema description which is heavily inspired by both existing schema languages.
 
 ## What's missing?
 

@@ -1,4 +1,4 @@
-A Simple CSV Schema document is a JSON document which can be validated against the [Simple CSV Meta Schema](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/src/simple-csv-schema.json). 
+A CSV Table Schema document is a JSON document which can be validated against the [Simple CSV Meta Schema](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/src/csv-table-schema.json). 
 
 It consists of a JSON object with following properties:
 

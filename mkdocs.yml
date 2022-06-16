@@ -1,15 +1,15 @@
 # Project information
-site_name: Simple CSV Schema
-site_description: 'Documentation for Simple CSV Schema'
+site_name: CSV Table Schema
+site_description: 'Documentation for CSV Table Schema'
 site_author: 'STÜBER SYSTEMS GmbH'
-site_url: 'https://simple-csv-schema.github.io/'
+site_url: 'https://csv-table-schema.github.io/'
 
 # Copyright
-copyright: © 2021 STÜBER SYSTEMS GmbH
+copyright: © 2022 STÜBER SYSTEMS GmbH
 
 # Repository
 repo_name: 'On GitHub'
-repo_url: 'https://github.com/simple-csv-schema/simple-csv-schema.github.io'
+repo_url: 'https://github.com/csv-table-schema/csv-table-schema.github.io'
 
 # Theming
 theme: 
