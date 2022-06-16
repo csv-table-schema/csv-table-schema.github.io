@@ -13,10 +13,10 @@ Main features:
 
 The following examples are available:
 
-* [Sample 01a: List of Students](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample01a.scsv.json)
-* [Sample 01b: List of Courses](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample01b.scsv.json)
-* [Sample 01c: List of Subjects](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample01b.scsv.json)
-* [Sample 02: Configuration](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample02.scsv.json)
+* [Sample 01a: List of Students](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample01a.csvts.json)
+* [Sample 01b: List of Courses](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample01b.csvts.json)
+* [Sample 01c: List of Subjects](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample01b.csvts.json)
+* [Sample 02: Configuration](https://github.com/csv-table-schema/csv-table-schema.spec/blob/main/samples/sample02.csvts.json)
 
 ## Why yet another CSV schema definition?
 
